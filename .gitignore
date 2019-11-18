@@ -1,0 +1,6 @@
+#Build Results
+[Bb]in/
+[Bb]in-int
+
+#VS
+*.vcxproj
